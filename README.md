@@ -6,7 +6,7 @@
 
 ## Files in this repository
 - `MSCS_634_ProjectDeliverable_1.ipynb`: the full notebook (loading, inspection, cleaning, EDA and insights) with comments on all code
-- `README.md`: this summary
+- `README.md`: Project documentation prepared by Anushka Nannaware and Anusha Pittala, including the dataset summary, data cleaning steps, exploratory data analysis, key findings, and project contributions.
 
 ## 1. Dataset Summary
 - **Dataset:** Telco Customer Churn (IBM sample dataset)
